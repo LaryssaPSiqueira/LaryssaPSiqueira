@@ -5,11 +5,13 @@ O que começou como um hobbie acabou virando algo que eu gosto muito: **programa
 
 🎮 Atualmente, estou focada em crescer na área de **desenvolvimento de jogos**, buscando sempre aprender novas ferramentas e aprimorar minhas habilidades técnicas e criativas.
 
-## 🛠️ Tecnologias que conheço
+## 🛠️ Tecnologias
 
 - 💻 **Python** 
 - 🌐 **HTML & CSS** 
 - 🔥 **JavaScript**
+- 👾 ** GitHub**
+
 
 ## 🎯 Objetivos
 
