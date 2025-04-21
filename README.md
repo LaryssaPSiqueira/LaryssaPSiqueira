@@ -10,7 +10,7 @@ O que começou como um hobbie acabou virando algo que eu gosto muito: **programa
 - 💻 **Python** 
 - 🌐 **HTML & CSS** 
 - 🔥 **JavaScript**
-- 👾 ** GitHub**
+- 👾 **GitHub**
 
 
 ## 🎯 Objetivos
