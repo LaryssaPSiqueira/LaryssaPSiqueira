@@ -8,7 +8,7 @@
 
 
 
-<br> <!-- Espaço adicional abaixo do GIF -->
+<br><br><br> <!-- Espaço adicional abaixo do GIF -->
 
 ## 🛠️ Tecnologias
 
