@@ -6,9 +6,10 @@
 
 🚀 Estou focada em crescer como **desenvolvedora back-end**, sempre buscando aprender novas ferramentas e aprimorar minhas habilidades técnicas.
 
+🎮 **Apaixonada por jogos**! Embora atualmente meu foco seja no desenvolvimento back-end, minha admiração por games sempre fez parte da minha jornada. Isso me inspira a criar soluções tecnológicas que podem impactar positivamente diversas áreas, incluindo a de jogos.
 
 
-<br><br><br> <!-- Espaço adicional abaixo do GIF -->
+<br> <!-- Espaço adicional abaixo do GIF -->
 
 ## 🛠️ Tecnologias
 
