@@ -6,7 +6,9 @@
 
 🚀 Estou focada em crescer como **desenvolvedora back-end**, sempre buscando aprender novas ferramentas e aprimorar minhas habilidades técnicas.
 
----
+
+
+<br> <!-- Espaço adicional abaixo do GIF -->
 
 ## 🛠️ Tecnologias
 
