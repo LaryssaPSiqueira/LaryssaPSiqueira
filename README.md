@@ -1,12 +1,8 @@
-# 👾 Laryssa Siqueira 
-
-
+👾 Laryssa Siqueira 
 
 👋 Olá! Meu nome é Laryssa Siqueira, tenho 24 anos e sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Tenho grande interesse por tecnologia e sou entusiasta em jogos digitais.
 
 ---
-
-
 
 ### 🛠️ Tecnologias
 
@@ -19,23 +15,19 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 
-
 ### 🚧 Status
 
-![Estudante de ADS](https://img.shields.io/badge/Estudante_de_ADS-000000?style=flat-square&logo=academia&logoColor=white)
+![Estudante de Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-000000?style=flat-square&logo=gradle&logoColor=white)
+![Estudante de ADS](https://img.shields.io/badge/Análise_e_Desenv._de_Sistemas-000000?style=flat-square&logo=academia&logoColor=white)
 ![Foco em Back-end](https://img.shields.io/badge/Back--end-000000?style=flat-square&logo=server&logoColor=white)
 ![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado_contínuo-000000?style=flat-square&logo=book&logoColor=white)
 ![Portfólio ativo](https://img.shields.io/badge/Portfólio_Ativo-000000?style=flat-square&logo=github&logoColor=white)
-
-
-
 
 ### 🌐 Contato
 
 Você pode me encontrar por aqui:
 - ✉️ [Email](mailto:larysiqueira13@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/laryssa-paiva031)  
-
 
 ---
 
