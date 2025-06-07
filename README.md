@@ -2,7 +2,7 @@
 
 
 
-👋 Olá! Meu nome é Laryssa Siqueira, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Tenho grande interesse por tecnologia e sou entusiasta em jogos digitais.
+👋 Olá! Meu nome é Laryssa Siqueira, tenho 24 anos e sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Tenho grande interesse por tecnologia e sou entusiasta em jogos digitais.
 
 ---
 
